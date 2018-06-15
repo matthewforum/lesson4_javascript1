@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Matthew Forum)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The editing of code to include three additional categories on a monthly expense calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/matthewforum/lesson4_javascript1)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How important the correct case is necessary in making the website work as a whole.)
+2. (How the online calculator classified each category into the final output with the use of different commands.)
+3. (Make sure the website is fully functioning, and if not then go back and make sure every detail is in line. Yes, I hade to do this multiple times.)
 
 
 
